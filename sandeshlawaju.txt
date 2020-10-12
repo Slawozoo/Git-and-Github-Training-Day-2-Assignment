@@ -1,0 +1,6 @@
+# Personal Info
+## Full Name: Sandesh Lawaju
+## Email address : sandesh.lawozoo01@gmail.com
+
+ Participating in this 3 days training session is  helping me to be clear about basic working of git and github.
+ Now i am quite familier with git and github.
